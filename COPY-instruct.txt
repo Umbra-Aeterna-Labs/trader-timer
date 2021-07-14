@@ -1,9 +1,0 @@
-GPLv3 license file included for convenience. Simply remove preceding underscore ("_") from "license" field in
-"package.json" and delete "COPYRIGHT" for GPLv3 licensing.
-
----
-
-    "Copying and distribution of this file, with or without modification,
-    are permitted in any medium without royalty provided the copyright
-    notice and this notice are preserved.  This file is offered as-is,
-    without any warranty."
