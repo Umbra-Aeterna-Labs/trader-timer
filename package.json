@@ -1,6 +1,9 @@
 {
-  "name": "repo-template",
+  "name": "trader-timer",
   "version": "0.1.0",
   "_license": "GPL-3.0",
-  "description": "GitHub Templates, config files, GPLv3-ready"
+  "description": "Calculates the approximate 
+    date/time that one's market trader will 
+    stop working for you and list themselves 
+    as 'trader for hire'. "
 }
