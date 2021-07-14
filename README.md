@@ -4,7 +4,7 @@
 Calculates the approximate date/time 
 that one's market trader will stop 
 working for you and list themselves 
-as "trader for hire". 
+as a trader for hire. 
 ```
 
 ---
