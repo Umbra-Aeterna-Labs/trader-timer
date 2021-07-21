@@ -1,5 +1,6 @@
 {
   "name": "trader-timer",
+  "type": "module",
   "version": "0.1.0",
   "license": "GPL-3.0",
   "description": "Calculates the approximate date/time that one's market trader will stop working for you and list themselves as a trader for hire."
